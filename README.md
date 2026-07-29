@@ -37,9 +37,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrasankarg&show_icons=true&theme=tokyonight&border_radius=10" alt="Rudra's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrasankarg&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+[![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudrasankarg&show_icons=true&theme=tokyonight&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudrasankarg&theme=tokyonight&border_radius=10)](https://github.com/danielcranney/readme-scribe)
 </p>
 
 <br/>
@@ -48,6 +48,6 @@
 
 *“🚀 Passionate about full-stack web development, IoT research, and machine learning innovation.”*
 
-<img src="https://komarev.com/normal-badge.png?style=flat-square&label=Profile+Views&color=00F2FE&username=rudrasankarg" alt="profile views" />
+![Profile Views](https://komarev.com/normal-badge.png?style=flat-square&label=Profile+Views&color=00F2FE&username=rudrasankarg)
 
 </div>

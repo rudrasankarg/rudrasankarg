@@ -7,16 +7,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/normal-badge.png?style=flat-square&label=Profile+Views&color=00F2FE&username=rudrasankarg" alt="Profile Views" />
-</p>
-
----
-
-### 💻 Current Focus
-- 🚀 Developing interactive and premium full-stack web applications.
-- 📡 Conducting research in IoT systems and smart integration.
-- 🧠 Innovating with machine learning models and predictive intelligence.
+### 🧑💻 About Me
+- 🎓 **Undergrad:** Computer Science student passionate about technology and innovation.
+- 📡 **Research:** Deeply interested in the intersection of Internet of Things (IoT) and machine learning.
+- 💻 **Development:** Building robust, scalable full-stack web applications with modern stacks.
 
 ---
 
@@ -30,15 +24,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=rudrasankarg&show_icons=true&theme=tokyonight&border_radius=10" alt="Rudra's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasankarg&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/danielcranney/readme-scribe">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrasankarg&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="97%" />

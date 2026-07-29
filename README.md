@@ -3,13 +3,49 @@
 # Hi 👋, I'm Rudra Sankar Ghosh Dastidar
 ### Full-Stack & IoT Developer | Computer Science Undergrad
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full-Stack+%26+IoT+Developer;Computer+Science+Undergrad;Passionate+about+web+development;IoT+Research+%26+ML+Innovation" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full-Stack+%26+IoT+Developer;Computer+Science+Undergrad;Passionate+about+web+development;IoT+Research+%26+ML+Innovation)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/normal-badge.png?style=flat-square&label=Profile+Views&color=00F2FE&username=rudrasankarg" alt="profile views" />
+<br/>
+
+![Profile Views](https://komarev.com/normal-badge.png?style=flat-square&label=Profile+Views&color=00F2FE&username=rudrasankarg)
+
+</div>
 
 ---
 
-</div>
+### 💻 Current Focus
+- 🚀 Developing interactive and premium full-stack web applications.
+- 📡 Conducting research in IoT systems and smart integration.
+- 🧠 Innovating with machine learning models and predictive intelligence.
+
+---
+
+### 🎒 Languages & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,express,nodejs,py,java,mysql,mongodb,supabase,git,figma,linux,matlab&perline=8&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=rudrasankarg&show_icons=true&theme=tokyonight&border_radius=10" alt="Rudra's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasankarg&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/danielcranney/readme-scribe">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrasankarg&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="97%" />
+  </a>
+</p>
+
+---
 
 ### 🌐 Portfolio & Contact
 - 🧑💻 **Check out my work:** [iamrudra.in](https://iamrudra.in)
@@ -28,30 +64,4 @@
   <a href="https://github.com/rudrasankarg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,express,nodejs,py,java,mysql,mongodb,supabase,git,figma,linux,matlab&perline=8&theme=dark" alt="My Skills" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrasankarg&show_icons=true&theme=tokyonight&border_radius=10" alt="Rudra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasankarg&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrasankarg&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
-<p align="center">
-  <i>🚀 Passionate about full-stack web development, IoT research, and machine learning innovation.</i>
 </p>

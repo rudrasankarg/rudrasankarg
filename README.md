@@ -1,15 +1,15 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rudra Sankar Ghosh Dastidar</h1>
+<h3 align="center">Full-Stack & IoT Developer | Computer Science Undergrad</h3>
 
-# Hi 👋, I'm Rudra Sankar Ghosh Dastidar
-### Full-Stack & IoT Developer | Computer Science Undergrad
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full-Stack+%26+IoT+Developer;Computer+Science+Undergrad;Passionate+about+web+development;IoT+Research+%26+ML+Innovation" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full-Stack+%26+IoT+Developer;Computer+Science+Undergrad;Passionate+about+web+development;IoT+Research+%26+ML+Innovation)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/normal-badge.png?style=flat-square&label=Profile+Views&color=00F2FE&username=rudrasankarg)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/normal-badge.png?style=flat-square&label=Profile+Views&color=00F2FE&username=rudrasankarg" alt="Profile Views" />
+</p>
 
 ---
 

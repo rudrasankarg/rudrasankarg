@@ -9,7 +9,7 @@
 
 ### 🧑💻 About Me
 - 🎓 **Undergrad:** Computer Science student passionate about technology and innovation.
-- 📡 **Research:** Deeply interested in the intersection of Internet of Things (IoT) and machine learning.
+- 📡 **Research:** Deeply interested in the intersection of Internet of Things (IoT) and Machine Learning.
 - 💻 **Development:** Building robust, scalable full-stack web applications with modern stacks.
 
 ---

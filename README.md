@@ -26,7 +26,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/danielcranney/readme-scribe">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrasankarg&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="97%" />
+    <img src="https://streak-stats.demolab.com/?user=rudrasankarg&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="97%" />
   </a>
 </p>
 

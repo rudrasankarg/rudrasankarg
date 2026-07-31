@@ -25,10 +25,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/danielcranney/readme-scribe">
-    <!-- FIXED: Added user parameter correctly and set to tokonight theme -->
-    <img src="https://streak-stats.demolab.com?user=rudrasankarg&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="97%" />
-  </a>
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
